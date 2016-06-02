@@ -1,0 +1,20 @@
+<root>
+    <student>
+        <Ph-No>8899234432</Ph-No>
+        <Ph-No>8899234432</Ph-No>
+        <E-mail>kdgv@j.l</E-mail>
+        <Address>
+            <town>habbakadal</town>
+            <district>Srina</district>
+        </Address>
+    </student>
+    <student>
+        <E-mail>kdgv@j.l</E-mail>
+        <Address>
+            <town>Btamaloo</town>
+            <district>Srinagar</district>
+        </Address>
+        <Name>khd.json</Name>
+        <Name>khd.json</Name>
+    </student>
+</root>
